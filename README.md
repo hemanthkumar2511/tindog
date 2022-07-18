@@ -1,0 +1,2 @@
+# tindog
+Copyrights Owned
