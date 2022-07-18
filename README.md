@@ -1,2 +1,1 @@
-# tindog
-Copyrights Owned
+TinDog Starting Files
